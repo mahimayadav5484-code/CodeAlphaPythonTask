@@ -1,0 +1,3 @@
+john.doe@gmail.com
+jane_smith@yahoo.com
+services@codealpha.tech
