@@ -48,19 +48,4 @@ A rule-based chatbot that replies to user inputs such as "hello", "how are you" 
 - **Concepts used:** `if-elif`, functions, loops, input/output
 - **Run:** `python chatbot.py`
 
----
 
-## How to Run
-
-1. Clone or download this repository.
-2. Open a terminal in the project folder.
-3. Run any task with `python <filename>.py`.
-
-## Author
-
-**[Your Name]**
-Python Programming Intern at [CodeAlpha](https://www.codealpha.tech)
-
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
-
-#CodeAlpha #Python #Internship
